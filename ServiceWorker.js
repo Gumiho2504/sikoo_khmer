@@ -1,9 +1,9 @@
 const cacheName = "SIKOO-3Pair Card-1.0";
 const contentToCache = [
     "Build/sikoo_khmer.loader.js",
-    "Build/sikoo_khmer.framework.js.br",
-    "Build/sikoo_khmer.data.br",
-    "Build/sikoo_khmer.wasm.br",
+    "Build/sikoo_khmer.framework.js.gz",
+    "Build/sikoo_khmer.data.gz",
+    "Build/sikoo_khmer.wasm.gz",
     "TemplateData/style.css"
 
 ];
